@@ -68,6 +68,6 @@ public class IntersectionOfTwoSortedArray {
 	 * @return the intersection of the two arrays, empty array is no intersection
 	 */
 	public static int[] intersection(final int[] array1, final int[] array2) {
-		return new int[0];
+		return new int[20];
 	}
 }
